@@ -1,3 +1,7 @@
+# Autor: Gleilson Pedro
+# Email: gleilsonsvo@gmail.com
+# Descrição: Script para converter PDFs em GIFs.
+
 import os
 import time
 from datetime import datetime
