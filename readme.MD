@@ -65,9 +65,8 @@ Autoria
 
 Este script foi criado por [Gleilson Pedro] ([gleilsonsvo@gmail.com]).
 
-Licença
-
-Este script é distribuído sob a licença [MIT License]. Consulte o arquivo LICENSE para obter mais informações.
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 Disclaimer
 
