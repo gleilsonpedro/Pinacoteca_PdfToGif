@@ -67,7 +67,7 @@ Este script foi criado por [Gleilson Pedro] ([gleilsonsvo@gmail.com]).
 
 Licença
 
-Este script é distribuído sob a licença [MIT License] (ou a licença que você escolher). Consulte o arquivo LICENSE para obter mais informações.
+Este script é distribuído sob a licença [MIT License]. Consulte o arquivo LICENSE para obter mais informações.
 
 Disclaimer
 
